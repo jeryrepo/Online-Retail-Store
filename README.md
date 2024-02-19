@@ -6,10 +6,11 @@ This involves the analysis of a sales dataset containing information such as  In
 
 # Key Techniques Used:
 
-****Data Cleaning and Preprocessing****
-**Data Cleaning and Preprocessing**
-**Data Visualization**
-**Insightful Visualizations**
+
+Data Cleaning and Preprocessing
+Data Cleaning and Preprocessing
+Data Visualization
+Insightful Visualizations
 
 # Results:
 
