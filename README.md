@@ -4,6 +4,9 @@
 This involves the analysis of a sales dataset containing information such as  Invoice, StockCode, Description Quantity, InvoiceDate, Price 	Customer ID, Country. Key analyses were conducted to uncover patterns and trends in the data, providing valuable information for business strategies.
 
 
+# Technology:
+Python, Pandas, Matplotlib, Seaborn, missingno
+
 # Key Techniques Used:
 
 
